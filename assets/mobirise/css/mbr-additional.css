@@ -4828,7 +4828,7 @@ body {
   margin-bottom: 2rem;
 }
 .cid-qwdbhh2WXZ .mbr-section-subtitle {
-  color: #cccccc;
+  color: #232323;
 }
 .cid-qwdbhh2WXZ a:not([href]):not([tabindex]) {
   color: #fff;
@@ -4847,7 +4847,7 @@ body {
   text-align: center;
 }
 .cid-qwdbhh2WXZ LABEL {
-  color: #efefef;
+  color: #232323;
 }
 .cid-qwdbhh2WXZ H2 {
   color: #ff3366;
@@ -4862,6 +4862,15 @@ body {
 }
 .cid-qwdA9SIdcP .mbr-section-subtitle {
   font-style: italic;
+}
+.cid-qwdA9SIdcP H3 {
+  color: #232323;
+}
+.cid-qwdA9SIdcP H1 {
+  color: #232323;
+}
+.cid-qwdA9SIdcP P {
+  color: #232323;
 }
 .cid-qvCA5oqn8E .navbar {
   padding: .5rem 0;
