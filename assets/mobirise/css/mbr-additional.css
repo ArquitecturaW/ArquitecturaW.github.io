@@ -4852,6 +4852,17 @@ body {
 .cid-qwdbhh2WXZ H2 {
   color: #ff3366;
 }
+.cid-qwdA9SIdcP h1 {
+  color: #616161;
+}
+.cid-qwdA9SIdcP h2,
+.cid-qwdA9SIdcP h3,
+.cid-qwdA9SIdcP p {
+  color: #767676;
+}
+.cid-qwdA9SIdcP .mbr-section-subtitle {
+  font-style: italic;
+}
 .cid-qvCA5oqn8E .navbar {
   padding: .5rem 0;
   background: #333333;
