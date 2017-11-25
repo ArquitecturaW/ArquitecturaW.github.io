@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AW",
-    "currentPage": "index.html",
+    "currentPage": "proyectos.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 91,
     "versionPublish": "4.4.1",
@@ -5184,7 +5184,7 @@
           "_once": false,
           "_params": {
             "slides__autoplay": true,
-            "slides__autoplayInterval": "2000",
+            "slides__autoplayInterval": "4000",
             "slides__showBullets": true,
             "slides": [
               {
@@ -5198,11 +5198,11 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "FULL SCREEN SLIDER",
+                "title": "Alto Ventura",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"https://arquitecturaw.github.io/AltoVentura/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MASTER PLAN</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACTO</a>"
+                "text": "Atardeceres irrepetibles rodeados de naturaleza y tranqulidad.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"https://arquitecturaw.github.io/AltoVentura/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MASTER PLAN</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"contacto.html#form4-1e\" data-toolbar=\"-mbrBtnMove\">CONTACTO</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/pool-1080x720.jpg",
@@ -5215,10 +5215,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "FULL SCREEN SLIDER",
+                "title": "Alto Ventura",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "La vida sin complicaciones, el mejor descanso.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"https://arquitecturaw.github.io/AltoVentura/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MASTER PLAN</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACTO</a>"
               },
               {
@@ -5232,10 +5232,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "FULL SCREEN SLIDER",
+                "title": "Alto Ventura",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "Diversión y descanso lejos del ruido de la ciudad.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"https://arquitecturaw.github.io/AltoVentura/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MASTER PLAN</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACTO</a>"
               },
               {
@@ -5249,10 +5249,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "FULL SCREEN SLIDER",
+                "title": "Alto Ventura",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "El mejor escenario para compartir con la familia.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"https://arquitecturaw.github.io/AltoVentura/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MASTER PLAN</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACTO</a>"
               },
               {
@@ -5266,10 +5266,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "FULL SCREEN SLIDER",
+                "title": "Alto Ventura",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "Contacto con la naturaleza en libertad, sin complicaciones.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"https://arquitecturaw.github.io/AltoVentura/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MASTER PLAN</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"contacto.html\" data-toolbar=\"-mbrBtnMove\">CONTACTO</a>",
                 "overlayOpacity": "0.2"
               }
