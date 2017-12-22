@@ -5191,7 +5191,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/beach-sunrise-wallpaper-2000x1125.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -5278,24 +5278,6 @@
                 "text": "Contacto con la naturaleza en libertad, sin complicaciones.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"https://arquitecturaw.github.io/AltoVentura/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MASTER PLAN</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"contacto.html\" data-toolbar=\"-mbrBtnMove\">CONTACTO</a>",
                 "overlayOpacity": "0.2"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/beach-sunrise-wallpaper-logo-3-2000x1125.jpg",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "Alto Ventura",
-                "overlay": true,
-                "contentAlign": "right",
-                "text": "Atardeceres irrepetibles rodeados de naturaleza y tranqulidad.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"https://arquitecturaw.github.io/AltoVentura/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MASTER PLAN</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"contacto.html#form4-1e\" data-toolbar=\"-mbrBtnMove\">CONTACTO</a>",
-                "overlayOpacity": "0.1"
               }
             ]
           }
