@@ -5280,7 +5280,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/beach-sunrise-wallpaper-logo-2-2000x1125.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beach-sunrise-wallpaper-logo-3-2000x1125.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
