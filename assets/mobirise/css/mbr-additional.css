@@ -1363,6 +1363,18 @@ body {
   height: auto;
   min-height: 100vh;
 }
+.cid-qFmhxyv4fr H1 {
+  text-align: right;
+}
+.cid-qFmhxyv4fr H3 {
+  text-align: right;
+  color: #67df1b;
+}
+.cid-qFmhxyv4fr .mbr-text,
+.cid-qFmhxyv4fr .mbr-section-btn {
+  text-align: right;
+  color: #67df1b;
+}
 .cid-qvCA5oqn8E .navbar {
   padding: .5rem 0;
   background: #333333;
