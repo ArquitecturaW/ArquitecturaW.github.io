@@ -2843,6 +2843,28 @@ body {
 .cid-qvVWg6ZNdx .media-container-row .row-copirayt {
   word-break: break-word;
 }
+.cid-qIOITPO1Fo {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #232323, #a09fc0);
+}
+@media (min-width: 992px) {
+  .cid-qIOITPO1Fo .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qIOITPO1Fo .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-qIOITPO1Fo .mbr-text,
+.cid-qIOITPO1Fo .mbr-section-btn {
+  text-align: left;
+}
+.cid-qIOITPO1Fo .mbr-section-title {
+  text-align: left;
+}
 .cid-qvCA5oqn8E .navbar {
   padding: .5rem 0;
   background: #333333;
