@@ -6356,10 +6356,12 @@
               }
             },
             ".mbr-text, .mbr-section-btn": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#cccccc"
             },
             ".mbr-section-title": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#cccccc"
             }
           },
           "_name": "header7",
