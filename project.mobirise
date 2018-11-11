@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AW",
-    "currentPage": "index.html",
+    "currentPage": "galeria.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 119,
     "versionPublish": "4.8.6",
@@ -2965,7 +2965,7 @@
           "_once": false,
           "_params": {
             "slides__autoplay": true,
-            "slides__autoplayInterval": "7000",
+            "slides__autoplayInterval": "3000",
             "slides__showBullets": true,
             "slides": [
               {
@@ -2981,7 +2981,7 @@
                 "customStyle3": "display-4",
                 "title": "IMAGE SLIDE",
                 "overlay": true,
-                "contentAlign": "right",
+                "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
