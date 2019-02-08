@@ -1,10 +1,10 @@
 {
   "settings": {
     "name": "AW",
-    "currentPage": "galeria.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 119,
-    "versionPublish": "4.8.6",
+    "versionPublish": "4.8.10",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
